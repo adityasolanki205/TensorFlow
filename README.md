@@ -4,4 +4,5 @@ This course is introduction to basic Neural Networks in machine learning using G
 Below are the workbooks provided in the course:
 -  Introduction to Tensorflow
 -  Implementation 
--  Convolutional Neural Network
+-  Introduction to Convolutional Neural Network
+-  CNN implementation on Cat and Dog Dataset
