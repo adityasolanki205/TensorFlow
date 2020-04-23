@@ -6,3 +6,4 @@ Below are the workbooks provided in the course:
 -  Implementation 
 -  Introduction to Convolutional Neural Network
 -  CNN implementation on Cat and Dog Dataset
+-  Concept of Image augumentation and dropout
