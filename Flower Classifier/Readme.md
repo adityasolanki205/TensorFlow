@@ -2,10 +2,7 @@
 
 ## Intro to Tensorflow
 
-This Sub folder contains code CNN code using dropout and how it helps in removing overfitting 
-
+This Sub folder contains code for small Image classifier of 5 types of Flowers
 1. Below are the workbooks present it explain PyTorch:
 
-    - Dropout.ipynb
-    
-    - Dropout_colab.ipynb ( Used in COLAB)
+    - excercise_flowers_with_data_augumentation.ipynb
