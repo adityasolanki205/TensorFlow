@@ -4,6 +4,6 @@
 
 This Sub folder contains code for transfer learning from existing Tensorflow model mobilenetv2.
 
-1. Below are the workbooks present it explain PyTorch:
+1. Below are the workbooks present it explain Tensorflow:
 
     - Transfer Learning.ipynb
