@@ -9,3 +9,5 @@ This Sub folder contains code for natural language processing in Tensorflow
     - Intro to Tokenizer
     
     - Padding Sequences
+    
+    - Working with Bog Datasets
