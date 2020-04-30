@@ -10,4 +10,4 @@ This Sub folder contains code for natural language processing in Tensorflow
     
     - Padding Sequences
     
-    - Working with Bog Datasets
+    - Working with Big Datasets
