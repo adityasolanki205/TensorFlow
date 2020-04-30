@@ -4,6 +4,11 @@ This course is introduction to basic Neural Networks in machine learning using G
 Below are the workbooks provided in the course:
 -  Introduction to Tensorflow
 -  Implementation 
--  Introduction to Convolutional Neural Network
+-  Convolutional Neural Network
 -  CNN implementation on Cat and Dog Dataset
--  Concept of Image augumentation and dropout
+-  Flower Classifier using Image augumentation 
+-  Dropout
+-  Saving and Loading
+-  Transfer learning
+-  Natural Language processing
+
