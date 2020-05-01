@@ -8,4 +8,6 @@ This Sub folder contains code for Sentiment analysis using Tensorflow Embedding 
 
     - Word Embeddings and Sentiment.ipynb
     
+    - Tweaking the model for Word Embeddings and Sentiment.ipynb
+    
     - combined_data.csv
