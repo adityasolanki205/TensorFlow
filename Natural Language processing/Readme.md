@@ -11,3 +11,7 @@ This Sub folder contains code for natural language processing in Tensorflow
     - Padding Sequences
     
     - Working with Big Datasets
+    
+    - Word Embeddings and Sentiment
+
+
