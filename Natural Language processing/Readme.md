@@ -14,6 +14,8 @@ This Sub folder contains code for natural language processing in Tensorflow
     
     - Word Embeddings and Sentiment
     
+    - Subwords
+    
     - LSTM with subwords
 
 
